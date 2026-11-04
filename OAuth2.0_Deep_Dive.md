@@ -172,7 +172,7 @@ This is the **most secure and widely used** flow. It never exposes tokens in the
 
 #### How It Works (Step by Step)
 
-```text
+
 ```text
 User          Browser/Client          Authorization Server          Resource Server
   |                  |                         |                          |
