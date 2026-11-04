@@ -193,7 +193,8 @@ User          Browser/Client          Authorization Server          Resource Ser
   |                  |<-- protected resource --------------------------------|
 ```
 
-```
+
+
 #### Step 1: Authorization Request
 
 The client redirects the user's browser to the AS:
